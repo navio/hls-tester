@@ -1,0 +1,20 @@
+{
+  "name": "hls-tester",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "15.6.1",
+    "hls.js": "0.8.5",
+    "ripcity": "1.3.3",
+    "react-dom": "15.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
